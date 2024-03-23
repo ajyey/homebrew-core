@@ -1051,6 +1051,7 @@ libgweather
 libhandy
 libidn2
 libint
+libirecovery
 libjwt
 libksba
 liblinear
