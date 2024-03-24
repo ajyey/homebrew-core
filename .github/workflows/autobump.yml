@@ -1,11 +1,6 @@
 name: Bump formulae on schedule or request
 
 on:
-  push:
-    branches:
-      - master
-    paths:
-      - '.github/workflows/*.ya?ml'
   workflow_dispatch:
     inputs:
       formulae:
